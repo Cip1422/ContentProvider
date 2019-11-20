@@ -10,13 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7af2ccac-0866-443a-8604-649a9d26576b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/room/GuestAdaptor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/room/GuestAdaptor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/room/GuestDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/room/GuestDAO.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/room/GuestEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/room/GuestEntity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/room/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/room/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +124,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
